@@ -1,11 +1,11 @@
 # Object-Oriented Programming Using C++ (OOP C++ Unit II)
 
 ## 👨‍🎓 Student Details
-* **Student Name:** Prathamesh Deepak Patlekar
-* **ZPRN:** 125UAD1357
-* **Class/Division:** SY - AI & DS BTech - E
-* **Course Name:** Object-Oriented Programming Using C++
-* **Unit:** I – VI
+- **Student Name:** Prathamesh Deepak Patlekar
+- **ZPRN:** 125UAD1357
+- **Class/Division:** SY - AI & DS BTech - E
+- **Course Name:** Object-Oriented Programming Using C++
+- **Unit:** I – VI
 
 ---
 
@@ -51,6 +51,10 @@ OOP-CPP-Unit-II/
 │   └── program17.cpp
 └── Program_18/
     └── program18.cpp
+```
+
+---
+
 ## 📋 List of Programs
 
 | Program | Brief Description |
